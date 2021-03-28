@@ -1,0 +1,96 @@
+body{font-family: Arial,Helvetica, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+padding:0;
+margin:0;
+background-color:#FFE6F2;
+}
+
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+header{
+  background-color: #FFB3CC;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#ffffff 3px solid;
+}
+
+header a{
+  color:#ffffff;
+  text-decoration:none;
+  font-size:16px;
+}
+
+header ul{
+  margin:0;
+  padding:0;
+
+}
+
+header li{
+  float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+}
+
+header #name{
+  float:left;
+
+}
+
+header #name h1{
+  margin:0;
+}
+
+header nav{
+  float:right;
+  margin-top:10px;
+}
+
+header a:hover{
+  color: #FF99AA;
+  font-weight:bold;
+}
+
+img{
+  border: 5px solid #ffffff;
+}
+
+footer{
+  padding: 20px;
+  margin-top:20px;
+  background color: #FFB3BF;
+  color:#FF6680;
+  text-align:center;
+  font-weight:bold;
+}
+
+.page-title{
+  color:#FF8095;
+  font-size:30px;
+  margin-left:455px;
+  margin-right:500px;
+}
+
+.pagex-title{
+  color:#FF8095;
+  font-size:25px;
+  margin-left:450px;
+}
+
+.pagez-title{
+  color:#FF8095;
+  font-size:30px;
+  margin-left:450px;
+}
+
+.pagey-title{
+  color:#FF8095;
+  font-size:30px;
+  margin-left:450px;
+}
